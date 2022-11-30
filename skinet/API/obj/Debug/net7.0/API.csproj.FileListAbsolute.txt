@@ -73,3 +73,9 @@ C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\Core.pdb
 C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
+C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\client\angular.json
+C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\client\package-lock.json
+C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\client\package.json
+C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\client\tsconfig.app.json
+C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\client\tsconfig.json
+C:\Users\skybo\timothy-huynh-p2\skinet\API\bin\Debug\net7.0\client\tsconfig.spec.json
