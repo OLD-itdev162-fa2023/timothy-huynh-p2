@@ -1,0 +1,15 @@
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\bin\Debug\net5.0\Core.dll
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\bin\Debug\net5.0\Core.pdb
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\skybo\timothy-huynh-p2\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
